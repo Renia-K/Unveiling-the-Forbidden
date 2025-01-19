@@ -50,121 +50,123 @@ Each entry includes:
 Below is a list of banned books organized by the century in which they were banned:
 
 **19th century**: 
-1. Memoirs of a Woman of Pleasure by John Cleland
-2. The Sorrows of Young Werther by	Johann Wolfgang von Goethe
-3. The Age of Reason by Thomas Paine
-4. Narrative of the Life of Frederick Douglass by Frederick Douglass
-5. Uncle Tom’s Cabin by	Harriet Beecher Stowe
-6. Leaves of Grass by	Walt Whitman
-7. Incidents in the Life of a Slave Girl by Harriet Jacobs
-8. The Kama Sutra - English translation by Sir Richard Francis Burton
-9. The Canterbury Tales by	Geoffrey Chaucer
-10. The Adventures of Huckleberry Finn by	Mark Twain
-11. The Picture of Dorian Gray by	Oscar Wilde
-12. Jude the Obscure by Thomas Hardy
-13. On the Origin of Species by Charles Darwin
-14. The Decameron by	Giovanni Boccaccio
+1. "Memoirs of a Woman of Pleasure" by John Cleland.
+2. "The Sorrows of Young Werther" by Johann Wolfgang von Goethe.
+3. "The Age of Reason" by Thomas Paine.
+4. "Narrative of the Life of Frederick Douglass" by Frederick Douglass.
+5. "Uncle Tom’s Cabin" by Harriet Beecher Stowe.
+6. "Leaves of Grass" by	Walt Whitman.
+7. "Incidents in the Life of a Slave Girl" by Harriet Jacobs.
+8. "The Kama Sutra" - English translation by Sir Richard Francis Burton.
+9. "The Canterbury Tales" by Geoffrey Chaucer.
+10. "The Adventures of Huckleberry Finn" by	Mark Twain.
+11. "The Picture of Dorian Gray" by	Oscar Wilde.
+12. "Jude the Obscure" by Thomas Hardy.
+13. "On the Origin of Species" by Charles Darwin.
+14. "The Decameron" by Giovanni Boccaccio.
 
 **20th century**: 
-1. Alice's Adventures in Wonderland by Lewis Carroll
-2. An American Tragedy by	Theodore Dreiser
-3. Elmer Gantry by	Sinclair Lewis
-4. Lady Chatterley's Lover by D.H Lawrence
-5. Oil! by Upton Sinclair
-6. On the Origin of Species by	Charles Darwin
-7. The Sun Also Rises by Ernest Hemingway
-8. Three Weeks by Elinor Glyn
-9. Ulysses by James Joyce
-10. Antic Hay by Aldous Huxley
-11. Desire Under the Elms by Eugene O'Neill
-12. Strange Interlude by Eugene O'Neill
+1. "Alice's Adventures in Wonderland" by Lewis Carroll.
+2. "An American Tragedy" by	Theodore Dreiser.
+3. "Elmer Gantry" by Sinclair Lewis.
+4. "Lady Chatterley's Lover" by D.H Lawrence.
+5. "Oil!" by Upton Sinclair.
+6. "On the Origin of Species" by Charles Darwin.
+7. "The Sun Also Rises" by Ernest Hemingway.
+8. "Three Weeks" by Elinor Glyn.
+9. "Ulysses" by James Joyce.
+10. "Antic Hay" by Aldous Huxley.
+11. "Desire Under the Elms" by Eugene O'Neill.
+12. "Strange Interlude" by Eugene O'Neill.
 
 **21st century**: 
-1. 1984 by George Orwell
-2. The Catcher in the Rye by J. D. Salinger
-3. The Scarlet Letter by Nathaniel Hawthorne
-4. To Kill a Mockingbird by Harper Lee
-5. The Grapes of Wrath by	John Steinbeck
-6. Slaughterhouse Five by Kurt Vonnegut
-7. The Great Gatsby by F. S. Fitzgerald
-8. The Color Purple by	Alice Walker
-9. The Canterbury Tales by	Geoffrey Chaucer
-10. The Da Vinci Code by Dan Brown
-11. Harry Potter series ("Philosopher's Stone") by J. K. Rowling
-12. The Lord of the Rings ("The Fellowship of the Ring”) by	J. R. R. Tolkien
-13. The Adventures of Captain Underpants by	Dav Pilkey
-14. Thirteen Reasons Why by	Jay Asher
-15. The Handmaid’s Tale by	Margaret Atwood
-16. Call Me by Your Name by Andre Aciman
-17. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Sáenz
-18. The DUFF: Designated Ugly Fat Friend by	Kody Keplinger
-19. Throne of Glass by Sarah J. Maas
-20. I’ll Give You the Sun by Jandy Nelson
-21. Gabi, A Girl in Pieces by Isabel Quintero
-22. Eleanor and Park by	Rainbow Rowell
-23. Gender Queer: A Memoir by Maia Kobabe
+1. "1984" by George Orwell.
+2. "The Catcher in the Rye" by J. D. Salinger.
+3. "The Scarlet Letter" by Nathaniel Hawthorne.
+4. "To Kill a Mockingbird" by Harper Lee.
+5. "The Grapes of Wrath" by	John Steinbeck.
+6. "Slaughterhouse Five" by Kurt Vonnegut.
+7. "The Great Gatsby" by F. S. Fitzgerald.
+8. "The Color Purple" by Alice Walker.
+9. "The Canterbury Tales" by Geoffrey Chaucer.
+10. "The Da Vinci Code" by Dan Brown.
+11. "Philosopher's Stone" Harry Potter series by J. K. Rowling.
+12. "The Fellowship of the Ring” The Lord of the Rings by J. R. R. Tolkien.
+13. "The Adventures of Captain Underpants" by Dav Pilkey.
+14. "Thirteen Reasons Why" by Jay Asher.
+15. "The Handmaid’s Tale" by Margaret Atwood.
+16. "Call Me by Your Name" by Andre Aciman.
+17. "Aristotle and Dante Discover the Secrets of the Universe" by Benjamin Sáenz.
+18. "The DUFF: Designated Ugly Fat Friend" by Kody Keplinger.
+19. "Throne of Glass" by Sarah J. Maas.
+20. "I’ll Give You the Sun" by Jandy Nelson.
+21. "Gabi, A Girl in Pieces" by Isabel Quintero.
+22. "Eleanor and Park" by Rainbow Rowell.
+23. "Gender Queer: A Memoir" by Maia Kobabe.
 
 The corpus was also categorized into six distinct themes, and the books were assigned to their respective themes to facilitate analysis and identify trends or common patterns that may have contributed to bans accordingly. 
 These include: 
 
 `Human Desire and Relationships`: 
-1. Memoirs of a Woman of Pleasure by John Cleland
-2. The Kama Sutra - English translation by	Sir Richard Francis Burton
-3. The Decameron by	Giovanni Boccaccio
-4. Lady Chatterley's Lover by D.H Lawrence
-5. Three Weeks by Elinor Glyn
-6. Desire Under the Elms by	Eugene O'Neill
-7. Strange Interlude by	Eugene O'Neill
-8. The Da Vinci Code by	Dan Brown?
-9. Harry Potter ("Philosopher's Stone") by J. K. Rowling?
+1. "Memoirs of a Woman of Pleasure" by John Cleland.
+2. "The Kama Sutra" - English translation by Sir Richard Francis Burton.
+3. "The Decameron" by Giovanni Boccaccio.
+4. "Lady Chatterley's Lover" by D.H Lawrence.
+5. "Three Weeks" by Elinor Glyn.
+6. "Desire Under the Elms" by Eugene O'Neill.
+7. "Strange Interlude" by Eugene O'Neill.
+8. "The Da Vinci Code" by Dan Brown.
+9. "Philosopher's Stone" Harry Potter by J. K. Rowling.
+10. "The Adventures of Captain Underpants" by Dav Pilkey.
+11. "Call Me By Your Name" by Andre Aciman.
     
 `Religion and Morality`: 
-1. The Age of Reason by	Thomas Paine
-2. The Picture of Dorian Gray by Oscar Wilde
-3. Elmer Gantry by Sinclair Lewis
-4. The Scarlet Letter by Nathaniel Hawthorne
-5. To Kill a Mockingbird by	Harper Lee
-6. The Handmaid’s Tale by Margaret Atwood
-7. Throne of Glass by Sarah J. Maas.
+1. "The Age of Reason" by Thomas Paine.
+2. "The Picture of Dorian Gray" by Oscar Wilde.
+3. "Elmer Gantry" by Sinclair Lewis.
+4. "The Scarlet Letter" by Nathaniel Hawthorne.
+5. "To Kill a Mockingbird" by Harper Lee.
+6. "The Handmaid’s Tale" by Margaret Atwood.
+7. "Throne of Glass" by Sarah J. Maas.
    
 `Slavery, Racism, and Power`: 
-1. Narrative of the Life of Frederick Douglass by Frederick Douglass
-2. Uncle Tom’s Cabin by	Harriet Beecher Stowe
-3. Incidents in the Life of a Slave Girl by	Harriet Jacobs
-4. The Adventures of Huckleberry Finn by Mark Twain
-5. The Grapes of Wrath by John Steinbeck
-6. The Color Purple by Alice Walker.
+1. "Narrative of the Life of Frederick Douglass" by Frederick Douglass.
+2. "Uncle Tom’s Cabin" by Harriet Beecher Stowe.
+3. "Incidents in the Life of a Slave Girl" by Harriet Jacobs.
+4. "The Adventures of Huckleberry Finn" by Mark Twain.
+5. "The Grapes of Wrath" by John Steinbeck.
+6. "The Color Purple" by Alice Walker.
    
 `Nature, Science, and Philosophy`: 
-1. Leaves of Grass by Walt Whitman
-2. On the Origin of Species by Charles Darwin
-3. Slaughterhouse Five by Kurt Vonnegut
+1. "Leaves of Grass" by Walt Whitman.
+2. "On the Origin of Species" by Charles Darwin.
+3. "Slaughterhouse Five" by Kurt Vonnegut.
    
 `Mental Health and Existential Struggles`: 
-1. The Sorrows of Young Werther by Johann Wolfgang von Goethe
-2. The Sun Also Rises by Ernest Hemingway
-3. Antic Hay by Aldous Huxley
-4. The Catcher in the Rye by J. D. Salinger
-5. Thirteen Reasons Why by Jay Asher
+1. "The Sorrows of Young Werther" by Johann Wolfgang von Goethe.
+2. "The Sun Also Rises" by Ernest Hemingway.
+3. "Antic Hay" by Aldous Huxley.
+4. "The Catcher in the Rye" by J. D. Salinger.
+5. "Thirteen Reasons Why" by Jay Asher.
 
 `Identity and Growth`: 
-1. Alice's Adventures in Wonderland	by Lewis Carroll
-2. Ulysses by James Joyce
-3. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Sáenz
-4. The DUFF: Designated Ugly Fat Friend by Kody Keplinger
-5. I’ll Give You the Sun by	Jandy Nelson
-6. Gabi, A Girl in Pieces by Isabel Quintero
-7. Eleanor and Park	by Rainbow Rowell
-8. Gender Queer: A Memoir by Maia Kobabe
+1. "Alice's Adventures in Wonderland" by Lewis Carroll.
+2. "Ulysses" by James Joyce.
+3. "Aristotle and Dante Discover the Secrets of the Universe by Benjamin Sáenz.
+4. "The DUFF: Designated Ugly Fat Friend" by Kody Keplinger.
+5. "I’ll Give You the Sun" by Jandy Nelson.
+6. "Gabi, A Girl in Pieces" by Isabel Quintero.
+7. "Eleanor and Park" by Rainbow Rowell.
+8. "Gender Queer: A Memoir" by Maia Kobabe.
    
 `Social Critique and Class Dynamics`: 
-1. The Canterbury Tales	by Geoffrey Chaucer
-2.  Jude the Obscure by	Thomas Hardy
-3.  An American Tragedy by Theodore Dreiser
-4.  Oil! by	Upton Sinclair
-5.  1984 by	George Orwell
-6.  The Great Gatsby by	F. S. Fitzgerald
-7.  The Lord of the Rings ("The Fellowship of the Ring”) by	J. R. R. Tolkien
+1. "The Canterbury Tales" by Geoffrey Chaucer.
+2.  "Jude the Obscure" by Thomas Hardy.
+3.  "An American Tragedy" by Theodore Dreiser.
+4.  "Oil!" by Upton Sinclair.
+5.  "1984" by George Orwell.
+6.  "The Great Gatsby" by F. S. Fitzgerald.
+7.  "The Fellowship of the Ring” The Lord of the Rings  by	J. R. R. Tolkien.
 
 ## File Formats 
 
