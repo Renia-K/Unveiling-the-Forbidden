@@ -2,7 +2,7 @@
 
 ## Corpus Overview
 
-This repository contains a dataset of 49 books banned in United States of America from the 19th century to the present, investigating the historical and cultural context surrounding book banning. By analyzing censored works, applying topic modeling for frequently used words, and evolving societal pressures, the project uncovers trends in banning, focusing on themes such as race, sexuality, and social issues. The resulting research offers insights into patterns of suppression and creates a searchable digital archive to preserve these literary works.
+This repository contains a dataset of 46 books banned in United States of America from the 19th century to the present, investigating the historical and cultural context surrounding book banning. By analyzing censored works, applying topic modeling for frequently used words, and evolving societal pressures, the project uncovers trends in banning, focusing on themes such as race, sexuality, and social issues. The resulting research offers insights into patterns of suppression and creates a searchable digital archive to preserve these literary works.
 The dataset is designed for textual analysis, digital humanities research, educational purposes, and historical inquiry, showcasing the evolution of book banning in North America through themes such as race, sexuality, social issues, and freedom of expression, while uncovering the thematic patterns behind suppressed literary works and serving as a comprehensive resource for investigating the multifaceted history of literary suppression in North America.
 
 ## Corpus Description
