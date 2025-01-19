@@ -14,7 +14,9 @@ The dataset includes a carefully curated selection of historically censored book
 **Highlights of the Corpus**: 
 
 `19th Century`: Abolitionist literature like "Uncle Tom’s Cabin" by Harriet Beecher Stowe.
+
 `20th Century`: Books affected by the Comstock Act like "Memoirs of a Woman of Pleasure" by John Cleland and banned works during the Boston censorship era of the 1920s.
+
 `1950-2024`: Works censored for addressing LGBTQIA+ or BIPOC issues, including "The Color Purple" by Alice Walker and Gender Queer by Maia Kobabe.
 
 
@@ -122,7 +124,9 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
 The project will produce:
 
   1. A *digital archive* of banned books with a searchable interface for easy access.
+
   2. *Analytical insights* on banning trends and their emotional or thematic triggers.
+     
   3. *Visualizations* such as interactive maps to explore banning patterns over time.
 
 
