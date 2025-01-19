@@ -90,19 +90,19 @@ Below is a list of banned books organized by the century in which they were bann
 8. The Color Purple by	Alice Walker
 9. The Canterbury Tales by	Geoffrey Chaucer
 10. The Da Vinci Code by Dan Brown
-11. Harry Potter series (book 1 available) by J. K. Rowling
-12. The Lord of the Rings ("The fellowship of the ring” available) by	J. R. R. Tolkien
+11. Harry Potter series ("Philosopher's Stone") by J. K. Rowling
+12. The Lord of the Rings ("The Fellowship of the Ring”) by	J. R. R. Tolkien
 13. The Adventures of Captain Underpants by	Dav Pilkey
 14. Thirteen Reasons Why by	Jay Asher
 15. The Handmaid’s Tale by	Margaret Atwood
 16. Call Me by Your Name by Andre Aciman
 17. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Sáenz
 18. The DUFF: Designated Ugly Fat Friend by	Kody Keplinger
-19. Throne of glass by Sarah J. Maas
+19. Throne of Glass by Sarah J. Maas
 20. I’ll Give You the Sun by Jandy Nelson
 21. Gabi, A Girl in Pieces by Isabel Quintero
 22. Eleanor and Park by	Rainbow Rowell
-23. Gender Queer: A Memoir by	Maia Kobabe
+23. Gender Queer: A Memoir by Maia Kobabe
 
 To facilitate analysis and identify trends or common patterns that may have contributed to bans, the corpus was also categorized into six distinct themes and the books were assigned to their respective themes accordingly.. These include: 
 
