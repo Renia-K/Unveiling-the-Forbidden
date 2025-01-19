@@ -9,6 +9,20 @@ The dataset is designed for textual analysis, digital humanities research, educa
 
 The dataset includes a carefully curated selection of historically censored books. These works, spanning from the 19th century to 2024, represent diverse themes and genres targeted by banning, such as abolitionist literature, works exploring sexuality, and those addressing race, gender, or social taboos.
 
+**Highlights of the Corpus**: 
+
+`19th Century`: Abolitionist literature like "Uncle Tom’s Cabin" by Harriet Beecher Stowe.
+`20th Century`: Books affected by the Comstock Act like "Memoirs of a Woman of Pleasure" by John Cleland and banned works during the Boston censorship era of the 1920s.
+`1950-2024`: Works censored for addressing LGBTQIA+ or BIPOC issues, including "The Color Purple" by Alice Walker and Gender Queer by Maia Kobabe.
+
+**Selection Criteria**: Books were selected based on their historical significance, documented instances of censorship, and the evolving focus of literary suppression over time. The criteria included:
+
+`Status of Censorship or Ban`: Books were chosen only if they have been officially banned, rather than simply censored. These are books that faced total prohibition rather than partial alteration.
+
+`Restrictions in Specific Environments`:  The selection focused on books that have been banned on a statewide or nationwide level in United States of America, rather than those restricted only within certain schools or libraries.
+
+`Accessibility for Extraction`: Books were selected based on their availability in public digital repositories, ensuring they were accessible for research or extraction. Data was sourced from publicly accessible platforms such as Project Gutenberg and other open digital libraries.
+
 Each entry includes:
 
 `Title`: The name of the book.
@@ -21,7 +35,7 @@ Each entry includes:
 
 `Source`: 
 
-Below you can find a list of banned books based on the century they were banned: 
+Below is a list of banned books organized by the century in which they were banned:
 
 **19th century**: Memoirs of a Woman of Pleasure by John Cleland // The Sorrows of Young Werther by	Johann Wolfgang von Goethe // The Age of Reason by Thomas Paine // Narrative of the Life of Frederick Douglass by Frederick Douglass // Uncle Tom’s Cabin by	Harriet Beecher Stowe // Leaves of Grass by	Walt Whitman // Incidents in the Life of a Slave Girl by Harriet Jacobs // The Kama Sutra - English translation by Sir Richard Francis Burton // The Canterbury Tales by	Geoffrey Chaucer // The Adventures of Huckleberry Finn by	Mark Twain // The Picture of Dorian Gray by	Oscar Wilde // Jude the Obscure by Thomas Hardy // On the Origin of Species by Charles Darwin // The Decameron by	Giovanni Boccaccio
 
@@ -68,6 +82,12 @@ The Jupyter Notebook Banned_Books_USA.ipynb includes all steps used to create th
 `Saving preproccessed text`: The cleaned and processed texts were stored in a dictionary (preprocessed_texts), where the keys are filenames and the values are the corresponding cleaned texts.
 The processed text was then saved into .txt files within the FINAL_TXT directory, ensuring the data is ready for analysis. 
 
+## Analytical Tools
+
+**Topic Modeling**: 
+    `Zeta Analysis`: Zeta analysis, using R software, is used to explore and identify key themes and topics across censored works, focusing on contrasts and thematic shifts over time, by analyzing preferred, avoided or common words between the centuries.
+    `Voyant Tool`: This tool is employed for interactive topic modeling, allowing the identification of recurring themes, word frequencies, and trends within the texts through various visualizations, like  word clouds and term frequency graphs.
+**Geospatial Visualization**: GIS tools [`ArcGIS` software`] are used to map the geographic distribution of banning, enabling users to explore regional patterns and historical shifts in censorship practices.
 
 
 
@@ -86,6 +106,9 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
 
 
 
+
+
+## Terms and Conditions
 
 
 
