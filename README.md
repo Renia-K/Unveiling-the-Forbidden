@@ -113,9 +113,9 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
 
 The project will produce:
 
-1. A <u>digital archive<u> of banned books with a searchable interface for easy access.
-2. Analytical insights on banning trends and their emotional or thematic triggers.
-3. Visualizations such as interactive maps to explore banning patterns over time.
+  1. A *digital archive* of banned books with a searchable interface for easy access.
+  2. *Analytical insights* on banning trends and their emotional or thematic triggers.
+  3. *Visualizations* such as interactive maps to explore banning patterns over time.
 
 
 ## Terms and Conditions
