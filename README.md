@@ -66,22 +66,25 @@ The corpus is available in the following formats:
 **Visualization Outputs**: .html for interactive maps, .png or .svg for charts.
 
 ## Code and Processing
-The Jupyter Notebook Banned_Books_USA.ipynb includes all steps used to create the dataset:
+Below, you will find the analytical steps employed in the Jupyter notebook Banned_Books_USA.ipynb for creating this dataset:
 
 `Data Retrieval`: HTML files containing book texts were downloaded from Project Gutenberg and organized into a specified directory (HTML_BOOK_LIST) for structured data retrieval.
+
 `Text Preprocessing`: Several Python libraries were used to efficiently process and clean the HTML format corpus of books downloaded from Project Gutenberg and Internet archive.
 
-   **Directory Navigation**: For this step, `os` and `glob` libraries were employed to navigate the directory containing the HTML files. These libraries facilitated the retrieval of the books stored in a specific directory (HTML_BOOK_LIST), allowing for seamless access to the data.
+`Directory Navigation`: For this step, `os` and `glob` libraries were employed to navigate the directory containing the HTML files. These libraries facilitated the retrieval of the books stored in a specific directory (HTML_BOOK_LIST), allowing for seamless access to the data.
 
-   **HTML Parsing & Metadata extraction**: `BeautifulSoup`, a Python library for parsing HTML documents, was used to parse the HTML content of each book. It efficiently extracted the preamble, which includes key metadata such as the book’s title and author. Regular expressions (from the `re` library) were applied to match specific patterns in the HTML to precisely extract this metadata.
+`HTML Parsing & Metadata extraction`: `BeautifulSoup`, a Python library for parsing HTML documents, was used to parse the HTML content of each book. It efficiently extracted the preamble, which includes key metadata such as the book’s title and author. Regular expressions (from the `re` library) were applied to match specific patterns in the HTML to precisely extract this metadata.
 
 `Metadata`: The `pandas` library was used to organize the metadata into a structured DataFrame. The metadata, including titles, authors, and filenames of processed books, was then saved into a well-formatted CSV file (Banned_Books_metadata.csv). For books that could not be scraped, additional metadata was retrieved from a separate non_scrapables.csv file. This data was merged with the main dataset to ensure a comprehensive record of all books, including those with incomplete or missing data.
 
 `File encoding`: Encoding issues during file export were fixed as the final metadata CSV file was saved using UTF-8 encoding with BOM (utf-8-sig). This ensures compatibility across different systems and software.
 
-   **Tokenization**: Using the `SpaCy` library the cleaned text was processed for tokenization. `SpaCy` efficiently divided the content into individual words, preparing it for advanced analysis and ensuring that the text could be easily processed at the token level.
+**Text Preprocessing**: Several Python libraries were used to efficiently process and clean the HTML format corpus of books downloaded from Project Gutenberg and Internet archive.
+
+   `Tokenization`: Using the `SpaCy` library the cleaned text was processed for tokenization. `SpaCy` efficiently divided the content into individual words, preparing it for advanced analysis and ensuring that the text could be easily processed at the token level.
    
-   **Cleaning & Preprocessing**: The `string` module was utilized to remove unwanted characters and normalize whitespace. This process cleaned the main text, ensuring it remained consistent and readable. All text was converted to lowercase to ensure uniformity and a list of stopwords (using the `nltk.corpus.stopwords library`) was removed from the text to eliminate common but insignificant words, so that to imrpove the quality of the dataset, ensuring accurate results in the analysis. Also using `string.punctuation` and `isalpha()`, punctuation marks and non-alphabetical characters were stripped from the content, to focus on the meaningful words. 
+  `Cleaning & Preprocessing`: The `string` module was utilized to remove unwanted characters and normalize whitespace. This process cleaned the main text, ensuring it remained consistent and readable. All text was converted to lowercase to ensure uniformity and a list of stopwords (using the `nltk.corpus.stopwords library`) was removed from the text to eliminate common but insignificant words, so that to imrpove the quality of the dataset, ensuring accurate results in the analysis. Also using `string.punctuation` and `isalpha()`, punctuation marks and non-alphabetical characters were stripped from the content, to focus on the meaningful words. 
 
 `Output Generation`: The processed text [cleaned text files] for each book was saved as .txt files in the designated output directory (FINAL_TXT). This organized structure ensures easy access to the cleaned data for analysis. 
 
