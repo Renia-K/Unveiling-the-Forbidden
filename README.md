@@ -15,13 +15,19 @@ The dataset includes a carefully curated selection of historically censored book
 `20th Century`: Books affected by the Comstock Act like "Memoirs of a Woman of Pleasure" by John Cleland and banned works during the Boston censorship era of the 1920s.
 `1950-2024`: Works censored for addressing LGBTQIA+ or BIPOC issues, including "The Color Purple" by Alice Walker and Gender Queer by Maia Kobabe.
 
-**Selection Criteria**: Books were selected based on their historical significance, documented instances of censorship, and the evolving focus of literary suppression over time. The criteria included:
+
+
+**Selection Criteria**: 
+
+Books were selected based on their historical significance, documented instances of censorship, and the evolving focus of literary suppression over time. The criteria included:
 
 `Status of Censorship or Ban`: Books were chosen only if they have been officially banned, rather than simply censored. These are books that faced total prohibition rather than partial alteration.
 
 `Restrictions in Specific Environments`:  The selection focused on books that have been banned on a statewide or nationwide level in United States of America, rather than those restricted only within certain schools or libraries.
 
 `Accessibility for Extraction`: Books were selected based on their availability in public digital repositories, ensuring they were accessible for research or extraction. Data was sourced from publicly accessible platforms such as Project Gutenberg and other open digital libraries.
+
+
 
 Each entry includes:
 
@@ -103,9 +109,13 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
 
 
 
+## Outcomes 
 
+The project will produce:
 
-
+1. A [digital archive] of banned books with a searchable interface for easy access.
+2. Analytical insights on banning trends and their emotional or thematic triggers.
+3. Visualizations such as interactive maps to explore banning patterns over time.
 
 
 ## Terms and Conditions
