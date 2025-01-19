@@ -105,7 +105,32 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
     `Voyant Tool`: This tool is employed for interactive topic modeling, allowing the identification of recurring themes, word frequencies, and trends within the texts through various visualizations, like  word clouds and term frequency graphs.
 **Geospatial Visualization**: GIS tools [`ArcGIS` software`] are used to map the geographic distribution of banning, enabling users to explore regional patterns and historical shifts in censorship practices.
 
+## Working with ArcGIS: Data Collection and Map Creation
 
+This section outlines the process of working with ArcGIS and steps followed: 
+
+**Data Collection & CSV file creation**: 
+Using the metadata from the Jupyter Notebook along with the State of book banned, the theme of book and reason for banning, spatial data were also collected using https://www.latlong.net/ including geographic coordinates (latitude and longitude) required for the map. 
+
+**Structuring the CSV**: 
+The data is organized in a tabular structure with columns representing attributes and geographic coordinates. 
+
+| CSV Column Names   | Description                                                         |
+|--------------------|---------------------------------------------------------------------| 
+| 'State'            | The state each book was banned                                      |
+| 'Title'            | Title of the book                                                   |
+| 'Author'           | Author's name                                                       |
+| 'Year_Banned"      | The Year/-s each book was banned                                    |
+| 'Theme'            | The Theme of each book based on the division we clarified previously|
+| 'Reason'           | The official reason lead to banning                                 |
+| 'Latitude'         | The Latitude of each state                                          |
+| 'Longitude'        | The Longitude of each state                                         |
+
+**Importing and Preparing Data in ArcGIS**: 
+1. The CSV file was firstly added to the map project using the Add Data option in ArcGIS Pro. This made the data available for further visualization. 
+2. The latitude and longitude fields are used to generate a point layer. The XY Table To Point tool is used to define the spatial representation of the data, with the appropriate columns assigned to X (Longitude) and Y (Latitude).
+3. A coordinate system, such as WGS 1984, is applied to ensure the data aligns with other spatial layers.
+4. 
 
 
 
