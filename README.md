@@ -115,7 +115,8 @@ To facilitate analysis and identify trends or common patterns that may have cont
 6. Desire Under the Elms by	Eugene O'Neill
 7. Strange Interlude by	Eugene O'Neill
 8. The Da Vinci Code by	Dan Brown?
-   
+9. Harry Potter series (book 1 available)	by J. K. Rowling?
+    
 `Religion and Morality`: 
 1. The Age of Reason by	Thomas Paine
 2. The Picture of Dorian Gray by Oscar Wilde
