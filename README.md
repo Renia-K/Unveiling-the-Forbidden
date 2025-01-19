@@ -26,12 +26,14 @@ The dataset includes a carefully curated selection of historically censored book
 
 Books were selected based on their historical significance, documented instances of censorship, and the evolving focus of literary suppression over time. The criteria included:
 
-`Status of Censorship or Ban`: Books were chosen only if they have been officially banned, rather than simply censored. These are books that faced total prohibition rather than partial alteration.
+`Status of Censorship or Ban`: Books were chosen only if they have been officially banned, rather than simply challenged. These are books that faced total prohibition rather than partial alteration.
 
 `Restrictions in Specific Environments`:  The selection focused on books that have been banned on a statewide or nationwide level in the United States of America, rather than those restricted only within certain schools or libraries.
 
 `Accessibility for Extraction`: Books were selected based on their availability in public digital repositories, ensuring they were accessible for research or extraction. Data was sourced from publicly accessible platforms such as Project Gutenberg and other open digital libraries.
 
+Note: The aforementioned criteria were followed when collecting 19th century and early 20th century banned books. Eligibility standards required adjustments when selecting more recent texts: a Federal Law for nationwide bans was no longer in action, and with a recent exponential increase in selected States' book bans and endless possibilities to access information on the Internet, the pool was too wide. Moreover, especially in the 21st century, books can be easily retrived on online platforms, making bans in local libraries and school curricula the only vehicles for preventing their distribution. 
+For these reasons, the second criterion was modified to include books banned in specific counties or school districts. Specifically, volumes censored after 2020 were selected from PEN America's list of banned books in American schools during the 2022-2023 school year. Considered the highest percentages of censorships coming from Florida and Texas, the lists of books banned in the two States were cross referenced, and the resulting overlaps were taken into consideration. The list was further refined based on the availability of the books in open-source online libraries.
 
 
 Each entry includes:
@@ -189,7 +191,7 @@ The corpus is available in the following formats:
 
 Below, you will find the analytical steps employed in the Jupyter notebook Banned_Books_USA.ipynb for creating this dataset:
 
-`Data Retrieval`: HTML files containing book texts were downloaded from Project Gutenberg and organized into a specified directory (HTML_BOOK_LIST) for structured data retrieval.
+`Data Retrieval`: HTML files containing book texts were downloaded from Project Gutenberg and organized into a specified directory (HTML_BOOK_LIST) for structured data retrieval. Books banned between 1950 and present day (except for "The Scarlet Letter" and "The Great Gatsby") were collected from Internet Archive, whose HTML files were not structured properly to allow extraction by scraping. Consequently, the .txt files were manually retrieved, grouped into a separate directory (NON_SCRAPABLES_TXT) and inserted into the code to be cleaned, added to the rest of the exctracted text files, and processed. 
 
 `Directory Navigation`: For this step, `os` and `glob` libraries were employed to navigate the directory containing the HTML files. These libraries facilitated the retrieval of the books stored in a specific directory (HTML_BOOK_LIST), allowing for seamless access to the data.
 
