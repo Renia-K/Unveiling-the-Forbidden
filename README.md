@@ -11,6 +11,7 @@ The dataset is designed for textual analysis, digital humanities research, educa
 The dataset includes a carefully curated selection of historically censored books. These works, spanning from the 19th century to 2024, represent diverse themes and genres targeted by banning, such as abolitionist literature, works exploring sexuality, and those addressing race, gender, or social taboos.
 
 
+
 **Highlights of the Corpus**: 
 
 `19th Century`: Abolitionist literature like "Uncle Tom’s Cabin" by Harriet Beecher Stowe.
@@ -18,6 +19,7 @@ The dataset includes a carefully curated selection of historically censored book
 `20th Century`: Books affected by the Comstock Act like "Memoirs of a Woman of Pleasure" by John Cleland and banned works during the Boston censorship era of the 1920s.
 
 `1950-2024`: Works censored for addressing LGBTQIA+ or BIPOC issues, including "The Color Purple" by Alice Walker and Gender Queer by Maia Kobabe.
+
 
 
 **Selection Criteria**: 
@@ -29,6 +31,7 @@ Books were selected based on their historical significance, documented instances
 `Restrictions in Specific Environments`:  The selection focused on books that have been banned on a statewide or nationwide level in United States of America, rather than those restricted only within certain schools or libraries.
 
 `Accessibility for Extraction`: Books were selected based on their availability in public digital repositories, ensuring they were accessible for research or extraction. Data was sourced from publicly accessible platforms such as Project Gutenberg and other open digital libraries.
+
 
 
 Each entry includes:
