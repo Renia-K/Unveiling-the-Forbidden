@@ -253,7 +253,25 @@ The data is organized in a tabular structure with columns representing attribute
 4. 
 
 
-## EXERCISES
+## Interactive Data Exploration Exercises
+
+For this project, a series of exercises have been created to promote researcher engagement with the dataset and enhance their understanding of the underlying data. These exercises provide practical opportunities for exploring, analyzing, and visualizing the dataset generated as part of this research. By incorporating tools such as word frequency analysis, sentiment analysis, word cloud generation, and bigram analysis, the exercises not only make the dataset more accessible but also facilitate deeper insights into its content, providing material for further analysis.
+
+
+**Setup Requirements**  
+
+1. **Setup Before Starting the Exercise**  
+Before starting this exercise, ensure you have completed the previous Jupyter Notebook provided. The outputs from that notebook, specifically the following files:  
+     - `Banned_Books_Metadata.csv`  
+     - `FINAL_TEXT.txt`  
+Save these files in a dedicated folder on your computer. This folder will serve as the **working directory** for this exercise.  
+
+2. **Stopwords File**
+Download the `stopwords.txt` file provided. Place this file in the same directory as the exercise. Ensure the file path is correctly referenced in the code to avoid errors.  
+
+3. **Provided Code**  
+All the code required to complete the exercise is already included in the provided Jupyter Notebook. You simply need to follow the instructions, execute the code, and analyze the results. No additional coding is required unless you choose to expand or modify the exercise.
+
 
 **Exercise 1: Text Preprocessing and Word Frequency Analysis**
 
@@ -296,20 +314,6 @@ Upon completion, you should obtain:
 
 A bar chart displaying the top 10 most common words in the selected book.
 Insights into the main themes or topics based on the frequent words.
-
-**Setup Requirements**  
-
-1. **Setup Before Starting the Exercise**  
-Before starting this exercise, ensure you have completed the previous Jupyter Notebook provided. The outputs from that notebook, specifically the following files:  
-     - `Banned_Books_Metadata.csv`  
-     - `FINAL_TEXT.txt`  
-Save these files in a dedicated folder on your computer. This folder will serve as the **working directory** for this exercise.  
-
-2. **Stopwords File**
-Download the `stopwords.txt` file provided. Place this file in the same directory as the exercise. Ensure the file path is correctly referenced in the code to avoid errors.  
-
-3. **Provided Code**  
-All the code required to complete the exercise is already included in the provided Jupyter Notebook. You simply need to follow the instructions, execute the code, and analyze the results. No additional coding is required unless you choose to expand or modify the exercise.
 
 
 **Exercise 2: Sentiment Analysis, WordCloud, and Bigram Analysis**
