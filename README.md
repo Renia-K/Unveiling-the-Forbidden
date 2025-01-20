@@ -406,9 +406,11 @@ This project acknowledges that some materials may have copyright restrictions ou
 This project does not deep-link to specific file URLs hosted on Project Gutenberg. Instead, references are made to the main landing pages for each work.
 
 **How to Use the Content**
+
 All files are provided as-is and remain subject to the terms of use outlined by Project Gutenberg. Redistribution of these files must also comply with Project Gutenberg’s License.
 
 **Credits**
+
 Content provided by Project Gutenberg. 
 
 **Disclaimer**
