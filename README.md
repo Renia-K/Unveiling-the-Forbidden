@@ -219,11 +219,12 @@ The processed text was then saved into .txt files within the FINAL_TXT directory
 
 **Topic Modeling**: 
 
-   -'Zeta Analysis': Zeta analysis, using R software, is used to explore and identify key themes and topics across censored works, focusing on contrasts and thematic shifts over time, by analyzing preferred, avoided or common words between the centuries.
+   - 'Zeta Analysis': Zeta analysis, using R software, is used to explore and identify key themes and topics across censored works, focusing on contrasts and thematic shifts over time, by analyzing preferred, avoided or common words between the centuries.
     
-   -'Voyant Tool': This tool is employed for interactive topic modeling, allowing the identification of recurring themes, word frequencies, and trends within the texts through various visualizations, like  word clouds and term frequency graphs.
+   - 'Voyant Tool': This tool is employed for interactive topic modeling, allowing the identification of recurring themes, word frequencies, and trends within the texts through various visualizations, like  word clouds and term frequency graphs.
     
 **Geospatial Visualization**: 
+
 GIS tools [`ArcGIS` software`] are used to map the geographic distribution of banning, enabling users to explore regional patterns and historical shifts in censorship practices.
 
 ## Working with ArcGIS: Data Collection and Map Creation
