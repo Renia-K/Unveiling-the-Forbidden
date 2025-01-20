@@ -387,6 +387,39 @@ The project will produce:
 
 ## Terms and Conditions
 
+This project utilizes public domain eBooks and content downloaded from Project Gutenberg. The files were acquired in HTML format and are used in accordance with Project Gutenberg's Terms of Use. This project adheres to the following terms and conditions as outlined by Project Gutenberg:
+
+**General Usage**
+
+The content used in this project is obtained from Project Gutenberg, which provides free access to public domain materials. The eBooks downloaded are for personal or non-commercial use only, as permitted by Project Gutenberg’s guidelines.
+
+**Manual Downloading**
+
+All HTML files were downloaded manually or in compliance with Project Gutenberg's guidelines for automated access. 
+
+**Copyright Compliance**
+
+This project acknowledges that some materials may have copyright restrictions outside the United States. Users accessing this project from outside the U.S. should verify the copyright status of the materials in their own country.
+
+**Linking and Attribution**
+
+This project does not deep-link to specific file URLs hosted on Project Gutenberg. Instead, references are made to the main landing pages for each work.
+
+**How to Use the Content**
+All files are provided as-is and remain subject to the terms of use outlined by Project Gutenberg. Redistribution of these files must also comply with Project Gutenberg’s License.
+
+**Credits**
+Content provided by Project Gutenberg. 
+
+**Disclaimer**
+
+No Warranty: This project provides no warranty regarding the accuracy, legality, or copyright status of the downloaded materials outside the United States. Users should verify copyright status and terms of use before redistributing or modifying any files.
+
+**Additional Resources**
+
+Project Gutenberg Terms of Use (https://www.gutenberg.org/policy/terms_of_use.html) 
+Project Gutenberg License (https://www.gutenberg.org/policy/license.html)
+
 
 ## Creators
 This dataset was created and curated by Theodora-Stavroula Korma, Olga Rojas Valle and Letizia Maria Marietti on behalf of the course Collecting Data, for the MA Digital Humanities. 
