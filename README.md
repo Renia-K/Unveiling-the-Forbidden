@@ -32,7 +32,7 @@ Books were selected based on their historical significance, documented instances
 
 `Accessibility for Extraction`: Books were selected based on their availability in public digital repositories, ensuring they were accessible for research or extraction. Data was sourced from publicly accessible platforms such as Project Gutenberg and other open digital libraries.
 
-Note: The aforementioned criteria were followed when collecting 19th century and early 20th century banned books. Eligibility standards required adjustments when selecting more recent texts: a Federal Law for nationwide bans was no longer in action, and with a recent exponential increase in selected States' book bans and endless possibilities to access information on the Internet, the pool was too wide. Moreover, especially in the 21st century, books can be easily retrived on online platforms, making bans in local libraries and school curricula the only vehicles for preventing their distribution. 
+Note: The aforementioned criteria were followed when collecting 19th century and early 20th century banned books. Eligibility standards required adjustments when selecting more recent texts: a Federal Law for nationwide bans was no longer in action, and with a recent exponential increase in selected States' book bans and endless possibilities to access information on the Internet, the pool was too wide. Moreover, especially in the 21st century, books can be easily retrieved on online platforms, making bans in local libraries and school curricula the only vehicles for preventing their distribution. 
 For these reasons, the second criterion was modified to include books banned in specific counties or school districts. Specifically, volumes censored after 2020 were selected from PEN America's list of banned books in American schools during the 2022-2023 school year. Considered the highest percentages of censorships coming from Florida and Texas, the lists of books banned in the two States were cross referenced, and the resulting overlaps were taken into consideration. The list was further refined based on the availability of the books in open-source online libraries.
 
 
@@ -251,6 +251,69 @@ The data is organized in a tabular structure with columns representing attribute
 2. The latitude and longitude fields are used to generate a point layer. The XY Table To Point tool is used to define the spatial representation of the data, with the appropriate columns assigned to X (Longitude) and Y (Latitude).
 3. A coordinate system, such as WGS 1984, is applied to ensure the data aligns with other spatial layers.
 4. 
+
+
+## EXERCISES
+
+**Exercise 1: Text Preprocessing and Word Frequency Analysis**
+
+`Purpose`: This exercise aims to provide hands-on experience in processing textual data and extracting meaningful insights. Through this activity, you will:
+
+1. Preprocess textual data by removing unnecessary components such as stopwords and punctuation.
+2. Analyze the frequency of words within a selected book's text to uncover its main themes.
+3. Visualize the most frequently occurring words using a bar chart for easier interpretation.
+
+
+`Features of the Exercise`: 
+1. Text Preprocessing:
+   Removes common, insignificant words, provided in the file stopwords. 
+   Text Cleaning: Strips punctuation, converts text to lowercase, and filters out non-alphabetic words.
+   Tokenization: Splits the text into individual words for analysis.
+2. Word Frequency Analysis
+   Counts the occurrence of each word in the processed text.
+   Identifies the top 10 most frequently used words, which can reveal important themes or ideas.
+3. Visualization
+   Generates a bar chart displaying the top 10 words and their respective frequencies.
+
+
+`Instructions`: 
+1. Select a Book
+   Browse the metadata CSV file (Banned_Books_Metadata.csv) to choose a book.
+   Metadata includes details such as title, author, and file name for easy reference.
+2. Preprocess the Text
+   Load the book's text file from the specified directory, using the output text files from the Jupyter Notebook (FINAL_TXT). 
+   Clean the text by removing punctuation, converting it to lowercase, and filtering out stopwords.
+3. Analyze Word Frequencies
+   Compute the frequency of each word in the text.
+   Extract the top 10 most frequent words.
+4. Visualize the Results
+   Create a bar chart using matplotlib to display the top words and their frequencies.
+   Interpret the chart to identify potential themes in the book.
+
+`Expected Output`: 
+
+Upon completion, you should obtain:
+
+A bar chart displaying the top 10 most common words in the selected book.
+Insights into the main themes or topics based on the frequent words.
+
+**Setup Requirements**  
+
+1. **Setup Before Starting the Exercise**  
+Before starting this exercise, ensure you have completed the previous Jupyter Notebook provided. The outputs from that notebook, specifically the following files:  
+     - `Banned_Books_Metadata.csv`  
+     - `FINAL_TEXT.txt`  
+Save these files in a dedicated folder on your computer. This folder will serve as the **working directory** for this exercise.  
+
+2. **Stopwords File**
+Download the `stopwords.txt` file provided. Place this file in the same directory as the exercise. Ensure the file path is correctly referenced in the code to avoid errors.  
+
+3. **Provided Code**  
+All the code required to complete the exercise is already included in the provided Jupyter Notebook. You simply need to follow the instructions, execute the code, and analyze the results. No additional coding is required unless you choose to expand or modify the exercise.  
+
+
+
+
 
 
 
