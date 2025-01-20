@@ -309,10 +309,51 @@ Save these files in a dedicated folder on your computer. This folder will serve 
 Download the `stopwords.txt` file provided. Place this file in the same directory as the exercise. Ensure the file path is correctly referenced in the code to avoid errors.  
 
 3. **Provided Code**  
-All the code required to complete the exercise is already included in the provided Jupyter Notebook. You simply need to follow the instructions, execute the code, and analyze the results. No additional coding is required unless you choose to expand or modify the exercise.  
+All the code required to complete the exercise is already included in the provided Jupyter Notebook. You simply need to follow the instructions, execute the code, and analyze the results. No additional coding is required unless you choose to expand or modify the exercise.
 
 
+**Exercise 2: Sentiment Analysis, WordCloud, and Bigram Analysis**
 
+`Purpose`: This exercise enhances your understanding of text preprocessing and data visualization by focusing on three key areas:
+
+1. Word Cloud Visualization – Highlight the key themes in the text.
+2. Bigram Analysis – Provide contextual insights by analyzing the most common word pairs.
+3. Basic Sentiment Analysis – Offer an emotional overview of the text.
+
+
+`Features of the Exercise`: 
+
+1. Word Cloud Visualization:
+   Generate an artistic representation of the text's most frequent words using the wordcloud library.
+   Customize the appearance of the word cloud for better visual appeal.
+3. Bigram Analysis:
+   Identify the most common two-word combinations (bigrams) using the nltk library.
+   Visualize the top 5 bigrams in a bar chart.
+3. Basic Sentiment Analysis:
+   Measure the emotional tone (positive, negative, or neutral) of the text using the textblob library.
+
+`Instructions`: 
+1. Choose a Book
+   Load the Banned_Books_Metadata.csv file.
+   Search for a book by title or author and select one from the matching results.
+2. Preprocess Text:
+   Load the corresponding text file (FINAL_TEXT.txt).
+   Preprocess the text by removing punctuation, converting text to lowercase, and eliminating stopwords.
+3. Generate a Word Cloud:
+   Create a visual representation of the text's most frequent words.
+4. Perform Bigram Analysis:
+   Identify and visualize the top 5 bigrams in the text using a bar chart.
+5. Conduct Sentiment Analysis:
+   Measure the emotional tone of the text and classify it as positive, negative, or neutral.
+
+`Expected Output`: 
+1. Word Cloud:
+   A visually appealing image displaying the most common words in the text.
+2. Bigram Analysis:
+   A bar chart showing the top 5 most frequent word pairs (bigrams).
+3. Sentiment Analysis:
+   Polarity score ranging from -1.0 (negative) to +1.0 (positive).
+   An interpretation of the overall emotional tone: Positive, Negative, or Neutral.
 
 
 
