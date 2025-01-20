@@ -279,11 +279,12 @@ The project will produce:
 
 
 ## Creators
-This dataset was created and curated by Theodora-Stavroula Korma, Olga Rojas Valle and Letizia- Maria Marietti on behalf of the course Collecting Data, for the MA Digital Humanities. 
+This dataset was created and curated by Theodora-Stavroula Korma, Olga Rojas Valle and Letizia Maria Marietti on behalf of the course Collecting Data, for the MA Digital Humanities. 
 
 **Contact Information**:
 email: t.s.korma@student.rug.nl, 
 email: o.rojas.valle@student.rug.nl,
+email: l.m.marietti@student.rug.nl
 
 
 ## Usage
